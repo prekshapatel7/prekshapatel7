@@ -1,5 +1,24 @@
-# 💫 About Me:
-🎓 I’m a Computer Science undergraduate at Pandit Deendayal Energy University (PDEU), passionate about building impactful software and solving complex problems.<br><br>🔭 I’m currently working on  <br>Building scalable full-stack web applications using the MERN stack and applying clean architecture principles.<br><br>👯 I’m looking to collaborate on  <br>Open-source Web Development projects, especially those involving React, Node.js, and real-world problem solving.<br><br>🤝 I’m looking for help with  <br>System design concepts and optimizing backend performance for large-scale applications.<br><br>🌱 I’m currently learning  <br>Advanced Data Structures & Algorithms, Backend Development, and writing efficient, production-ready code.<br><br>💬 Ask me about  <br>JavaScript, Web Development, MERN Stack, APIs, and solving DSA problems.<br><br>⚡ Fun fact  <br>I enjoy solving complex DSA problems and then applying the same logic to build efficient real-world web applications.
+ ## 💫 About Me
+
+🎓 I’m a Computer Science undergraduate at Pandit Deendayal Energy University (PDEU), passionate about building impactful software and solving complex problems.<br><br>
+
+🔭 What I spend most of my time on<br>
+Exploring scalable full-stack web development using the MERN stack, with a strong focus on clean architecture and maintainable code.<br><br>
+
+👯 Open to collaboration<br>
+Interested in contributing to open-source Web Development projects, especially those built with React, Node.js, and applications that solve real-world problems.<br><br>
+
+🤝 Areas where I’m growing<br>
+Learning system design principles and understanding how backend systems can be optimized for performance and scalability.<br><br>
+
+🌱 Currently improving my skills in<br>
+• Advanced Data Structures & Algorithms<br>
+• Backend Development and scalable API design<br>
+• Writing efficient, production-ready code<br><br>
+
+💬 Ask me about<br>
+JavaScript, Web Development, MERN Stack, APIs, and strategies for solving DSA problems.<br><br>
+
 
 
 ## 🌐 Socials:
