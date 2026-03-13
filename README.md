@@ -2,22 +2,21 @@
 
 🎓 I’m a Computer Science undergraduate at Pandit Deendayal Energy University (PDEU), passionate about building impactful software and solving complex problems.<br><br>
 
-🔭 What I spend most of my time on<br>
-Exploring scalable full-stack web development using the MERN stack, with a strong focus on clean architecture and maintainable code.<br><br>
+<p>
+💻 I enjoy building applications that are clean, scalable, and thoughtfully designed. My interests lie strongly in full-stack web development, where I work with the MERN stack to create applications that follow solid architecture principles and remain easy to maintain as they grow.
+</p>
 
-👯 Open to collaboration<br>
-Interested in contributing to open-source Web Development projects, especially those built with React, Node.js, and applications that solve real-world problems.<br><br>
+<p>
+🤝 Collaborating with developers who enjoy turning ideas into meaningful products is something I truly value. Open-source web projects, especially those built with React and Node.js, are spaces where I like contributing, learning from others, and working together on solutions that address real-world challenges.
+</p>
 
-🤝 Areas where I’m growing<br>
-Learning system design principles and understanding how backend systems can be optimized for performance and scalability.<br><br>
+<p>
+🧠 At the same time, I continuously strengthen my problem-solving abilities through Data Structures and Algorithms while exploring how backend systems are designed for performance, scalability, and reliability. With every project I build, I aim to write efficient, well-structured, and production-ready code.
+</p>
 
-🌱 Currently improving my skills in<br>
-• Advanced Data Structures & Algorithms<br>
-• Backend Development and scalable API design<br>
-• Writing efficient, production-ready code<br><br>
-
-💬 Ask me about<br>
-JavaScript, Web Development, MERN Stack, APIs, and strategies for solving DSA problems.<br><br>
+<p>
+💬 If you share an interest in JavaScript, APIs, modern web development, or tackling challenging DSA problems, feel free to connect and collaborate on building meaningful projects.
+</p>
 
 
 
